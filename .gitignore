@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# -----------------------------
+# Smart Walker project
+# -----------------------------
+
+# VS Code
+.vscode/
+
+# Large datasets
+data/
+
+# Downloaded model weights
+models/
+
+# Generated outputs
+logs/
+outputs/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
